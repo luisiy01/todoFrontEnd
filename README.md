@@ -26,7 +26,7 @@ Please have the following installed and ready to go before following the steps i
 
 ### Testing
 
-Before run the test, check if they have the correct values to pass them
+Before run the test, check if they have the correct values to pass them and check the backend server is running too.
 
 1. Run `npm test`
 
