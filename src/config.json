@@ -1,0 +1,5 @@
+{
+    "endpoint":"http://localhost:5000/",
+    "invalidTokenErrorMessage":"Invalid Token",
+    "missingJWTErrorMessage":"Missing JWT"
+}
